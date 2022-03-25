@@ -1,0 +1,6 @@
+Responsive font size
+We can set the size of the text by using a vw unit, which stands for the 'viewport width'. The viewport is the size of the browser window.
+
+1vw = 1% of viewport width.
+
+If the width of the viewport is 50cm, then the 1vw is equal to 0.5 cm.

@@ -1,0 +1,4 @@
+Font-size with em
+It is used to resize the text. Most of the developers prefer em instead of pixels. It is recommended by the world wide web consortium (W3C). As stated above, the default text size in browsers is 16px. So, we can say that the default size of 1em is 16px.
+
+The formula for calculating the size from pixels to em is em = pixels/16.
